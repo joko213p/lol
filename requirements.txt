@@ -1,2 +1,0 @@
-python-telegram-bot==21.7
-apify-client==1.8.1
